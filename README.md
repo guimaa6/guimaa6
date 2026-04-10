@@ -25,7 +25,7 @@ Atuo na interseção entre **design, tecnologia e produto**, criando soluções 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,threejs,nodejs,figma,git,github,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,threejs,nodejs,git." />
 </p>
 
 ---
