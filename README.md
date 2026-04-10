@@ -16,6 +16,8 @@ Desenvolvedor Front-End com foco em **interfaces de alto impacto, performance e 
 
 Atualmente cursando **Sistemas de Informação (6º período - UNIT-SE)**.
 
+CEO e fundador da ONE>DEVS
+
 Atuo na interseção entre **design, tecnologia e produto**, criando soluções digitais que não apenas funcionam — mas **geram resultado real**.
 
 ---
@@ -23,7 +25,7 @@ Atuo na interseção entre **design, tecnologia e produto**, criando soluções 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,threejs,nodejs,git,GSAP" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,threejs,nodejs,figma,git,github,vercel,vscode" />
 </p>
 
 ---
