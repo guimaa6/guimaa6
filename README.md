@@ -30,28 +30,6 @@ Atuo na interseção entre **design, tecnologia e produto**, criando soluções 
 
 ---
 
-## 🧩 Projetos & Produtos
-
-<p align="center">
-  <a href="https://juricode.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/JuriCode-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://saudify.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Saudify-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://stellaros.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/StellarOS-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://flamesnkrs.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/FlameSNKRS-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://mgveiculos.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/MG%20Veículos-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🏢 ONE>DEVS
 
 <p align="center">
